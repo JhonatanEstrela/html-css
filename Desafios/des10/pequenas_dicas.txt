@@ -1,0 +1,43 @@
+<link rel="shortcut icon" href="imagens/favicon.ico" type="image/x-icon"> Criação do icone e colocação no lugar.
+
+<title>Como surgiu o Mascute do Android</title>  Título do site.
+
+<link rel="stylesheet" href="estilo/style.css"> Link para o estilo.
+
+<header> cabeçario.
+
+<h1> titulo do cabeçario.
+
+<p> paragrafo do cabeçario.
+
+<nav> menu de navegação.
+
+<a href="">Home</a> link (1) do menu  de navegação sem direção pra outro link.
+
+<main> parte principal do conteudo.
+
+<article> artigo da parte principal
+
+<strong> colocou a palavra em destaque.
+
+<h2> segundo título de article.
+
+<a href= link para o site falando de quem é o cara citado.
+
+target="_blank"> tag para abrir em uma nova aba.
+
+<img src="imagens/dan-droids.png" alt="Primeiro mascote do android"> tag e imagem 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l2UDgpLz20M?si=cNITSzqWagqh_1r1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> imframe do video do android
+
+</h3> optou por H3 por está em um nível abaixo dos outros.
+
+<ul> tag de listas e tipo.
+
+<li> listas (listou).
+
+<abbr> abreviação (aparece um nome ou texto quando o mouse para em cima)
+
+<aside> bloquinho do artigo
+
+<footer> rodape do site
